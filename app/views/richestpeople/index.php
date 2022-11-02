@@ -1,19 +1,18 @@
-<?php 
-  //include(APPROOT . "/views/includes/head.php" );
-  echo $data["title"]; 
+<?php
+//include(APPROOT . "/views/includes/head.php" );
+echo $data["title"];
 ?>
 <table>
   <thead>
-    <th>id</th>
+    <th>Id</th>
     <th>Name</th>
     <th>Networth</th>
     <th>Age</th>
     <th>Company</th>
-    <th>delete</th>
+    <th>Delete</th>
   </thead>
   <tbody>
-    <?=$data['richestpeople']?>
+    <?= $data['richestpeople'] ?>
   </tbody>
 </table>
-<a href="<?=URLROOT;?>/homepages/index">terug</a>
-
+<a href="<?= URLROOT; ?>/homepages/index">terug</a>
