@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Gegenereerd op: 17 okt 2022 om 09:42
--- Serverversie: 5.7.31
--- PHP-versie: 8.1.10
+-- Gegenereerd op: 02 nov 2022 om 12:26
+-- Serverversie: 5.7.36
+-- PHP-versie: 8.1.0
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
