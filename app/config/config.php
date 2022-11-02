@@ -8,4 +8,4 @@ define('APPROOT', dirname(dirname(__FILE__)));
 
 define('URLROOT', 'http://mvc-oop-toets.nl/');
 
-define('SITENAME', 'MVC OOP toets');
+define('SITENAME', 'MVC OOP toets Periode 1');
