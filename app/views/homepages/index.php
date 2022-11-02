@@ -1,2 +1,4 @@
-<p><h3><?= $data["title"]; ?></h3></p>
-<a href="<?=URLROOT;?>/richestpeople/index">RichestPeople</a>
+<p>
+<h4><?= $data["title"]; ?></h4>
+</p>
+<a href="<?= URLROOT; ?>/richestpeople/index">RichestPeople</a>
